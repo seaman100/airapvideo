@@ -5,7 +5,7 @@ Turn one photo into an AI rap video: original beat, rap vocal and lip sync in th
 ## Links
 
 - [AI rap generator](https://airapvideo.one/ai-rap-generator)
-- [Birthday rap song](https://airapvideo.one/birthday-rap-song)
+- [birthday rap song](https://airapvideo.one/birthday-rap-song)
 
 - [Main site](https://airapvideo.one/)
 
